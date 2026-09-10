@@ -1,0 +1,11 @@
+.env
+.venv/
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+__pycache__/
+.pytest_cache/
+.state/
+.rovny/
+*.pyc
+work/

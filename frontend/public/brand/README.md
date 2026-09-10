@@ -1,0 +1,1 @@
+ROVNY brand artwork supplied by the project owner. The original JPEG is preserved unchanged. BrandMark frames its white app icon through CSS. Brand identity is not covered by the source-code MIT license.
